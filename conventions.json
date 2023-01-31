@@ -1,0 +1,1026 @@
+[
+	{
+		"name": "Equestria LA 2012",
+		"start_date": "2012-11-03",
+		"end_date": "2012-11-04",
+		"location": {
+			"locality": "Anaheim",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Equestria LA",
+		"specifier": "2012",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Equestria LA 2013",
+		"start_date": "2013-05-10",
+		"end_date": "2013-05-12",
+		"location": {
+			"locality": "Anaheim",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Equestria LA",
+		"specifier": "2013",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Equestria LA 2015",
+		"start_date": "2015-09-04",
+		"end_date": "2015-09-06",
+		"location": {
+			"locality": "Anaheim",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Equestria LA",
+		"specifier": "2015",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Pacific PonyCon 2017",
+		"start_date": "2017-01-06",
+		"end_date": "2017-01-08",
+		"location": {
+			"locality": "San Diego",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Diego",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Pacific PonyCon",
+		"specifier": "2017",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "BABSCon 2017",
+		"start_date": "2017-04-14",
+		"end_date": "2017-04-16",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2017",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Equestria LA 2017",
+		"start_date": "2017-11-17",
+		"end_date": "2017-11-19",
+		"location": {
+			"locality": "Garden Grove",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Equestria LA",
+		"specifier": "2017",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "BABSCon 2018",
+		"start_date": "2018-03-30",
+		"end_date": "2018-04-01",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2018",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "High Roller Pony Con 2018",
+		"start_date": "2018-06-01",
+		"end_date": "2018-06-02",
+		"location": {
+			"locality": "Paradise",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Las Vegas",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"series": "High Roller Pony Con",
+		"specifier": "2018",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Anime Expo 2018",
+		"start_date": "2018-07-05",
+		"end_date": "2018-07-08",
+		"location": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Anime Expo",
+		"specifier": "2018",
+		"genre": "Anime",
+		"status": "Attending",
+		"note": "Attending only on Saturday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Ponyville Ciderfest 2018",
+		"start_date": "2018-10-26",
+		"end_date": "2018-10-28",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2018",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Further Confusion 2019",
+		"start_date": "2019-01-17",
+		"end_date": "2019-01-21",
+		"location": {
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2019",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only on Saturday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "BABSCon 2019",
+		"start_date": "2019-04-19",
+		"end_date": "2019-04-22",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2019",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Everfree Northwest 2019",
+		"start_date": "2019-05-17",
+		"end_date": "2019-05-19",
+		"location": {
+			"locality": "SeaTac",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2019",
+		"genre": "Brony",
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "BronyCon 2019",
+		"start_date": "2019-08-01",
+		"end_date": "2019-08-04",
+		"location": {
+			"locality": "Baltimore",
+			"region": "Maryland",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Baltimore",
+			"region": "Maryland",
+			"country": "USA"
+		},
+		"series": "BronyCon",
+		"specifier": "2019",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Ponyville Ciderfest 2019",
+		"start_date": "2019-11-01",
+		"end_date": "2019-11-03",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2019",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Further Confusion 2020",
+		"start_date": "2020-01-16",
+		"end_date": "2020-01-20",
+		"location": {
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2020",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only Friday to Monday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "HarmonyCon 2020",
+		"start_date": "2020-02-07",
+		"end_date": "2020-02-09",
+		"location": {
+			"locality": "Addison",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"series": "HarmonyCon",
+		"specifier": "2020",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Golden State Fur Con 2020",
+		"start_date": "2020-04-03",
+		"end_date": "2020-04-05",
+		"location": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Golden State Fur Con",
+		"specifier": "2020",
+		"genre": "Furry",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19"
+	},
+	{
+		"name": "BABSCon 2020",
+		"start_date": "2020-04-10",
+		"end_date": "2020-04-12",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2020",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19; virtual event held 8–9 May"
+	},
+	{
+		"name": "Anthrocon 2020",
+		"start_date": "2020-07-02",
+		"end_date": "2020-07-05",
+		"location": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"series": "Anthrocon",
+		"specifier": "2020",
+		"genre": "Furry",
+		"status": "Not Attending",
+		"note": "Originally planning to attend only Thursday before Whinny City Pony Con; changed to virtual event due to COVID-19"
+	},
+	{
+		"name": "Whinny City Pony Con 2020",
+		"start_date": "2020-07-03",
+		"end_date": "2020-07-05",
+		"location": {
+			"locality": "Schaumburg",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Chicago",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"series": "Whinny City Pony Con",
+		"specifier": "2020",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Postponed from 27–29 March and ultimately changed to virtual event due to COVID-19"
+	},
+	{
+		"name": "Everfree Northwest 2020",
+		"start_date": "2020-08-07",
+		"end_date": "2020-08-09",
+		"location": {
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2020",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19"
+	},
+	{
+		"name": "Ponyville Ciderfest 2020",
+		"start_date": "2020-10-30",
+		"end_date": "2020-11-01",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2020",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19; virtual event held 6–8 November"
+	},
+	{
+		"name": "BABSCon 2021",
+		"start_date": "2021-04-02",
+		"end_date": "2021-04-04",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2021",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19; virtual event held 29–30 May"
+	},
+	{
+		"name": "Golden State Fur Con 2021",
+		"start_date": "2021-04-09",
+		"end_date": "2021-04-11",
+		"location": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Golden State Fur Con",
+		"specifier": "2021",
+		"genre": "Furry",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19"
+	},
+	{
+		"name": "Everfree Northwest 2021",
+		"start_date": "2021-08-13",
+		"end_date": "2021-08-15",
+		"location": {
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2021",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "DenFur 2021",
+		"start_date": "2021-08-20",
+		"end_date": "2021-08-22",
+		"location": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"series": "DenFur",
+		"specifier": "2021",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Biggest Little Fur Con 2021",
+		"start_date": "2021-10-21",
+		"end_date": "2021-10-24",
+		"location": {
+			"locality": "Reno",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Reno",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"series": "Biggest Little Fur Con",
+		"specifier": "2021",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only on Thursday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Ponyville Ciderfest 2021",
+		"start_date": "2021-10-22",
+		"end_date": "2021-10-24",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2021",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "TrotCon 2021",
+		"start_date": "2021-12-17",
+		"end_date": "2021-12-19",
+		"location": {
+			"locality": "Columbus",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Columbus",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"series": "TrotCon",
+		"specifier": "2021",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Vanhoover Pony Expo 2022",
+		"start_date": "2022-01-07",
+		"end_date": "2022-01-09",
+		"location": {
+			"locality": "Richmond",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"metropolis": {
+			"locality": "Vancouver",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"series": "Vanhoover Pony Expo",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Not Attending",
+		"note": "Changed to virtual event due to COVID-19"
+	},
+	{
+		"name": "Further Confusion 2022",
+		"start_date": "2022-01-13",
+		"end_date": "2022-01-17",
+		"location": {
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2022",
+		"genre": "Furry",
+		"status": "Not Attending",
+		"note": "Canceled due to COVID-19"
+	},
+	{
+		"name": "HarmonyCon 2022",
+		"start_date": "2022-02-18",
+		"end_date": "2022-02-20",
+		"location": {
+			"locality": "Irving",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"series": "HarmonyCon",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Golden State Fur Con 2022",
+		"start_date": "2022-04-08",
+		"end_date": "2022-04-10",
+		"location": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Golden State Fur Con",
+		"specifier": "2022",
+		"genre": "Furry",
+		"status": "Attending"
+	},
+	{
+		"name": "BABSCon 2022",
+		"start_date": "2022-04-15",
+		"end_date": "2022-04-17",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Whinny City Pony Con 2022",
+		"start_date": "2022-06-03",
+		"end_date": "2022-06-05",
+		"location": {
+			"locality": "Schaumburg",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Chicago",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"series": "Whinny City Pony Con",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Anthrocon 2022",
+		"start_date": "2022-06-30",
+		"end_date": "2022-07-03",
+		"location": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"series": "Anthrocon",
+		"specifier": "2022",
+		"genre": "Furry",
+		"status": "Not Attending",
+		"note": "Tested positive for COVID-19 upon arrival and spent the duration of the con in isolation"
+	},
+	{
+		"name": "TrotCon 2022",
+		"start_date": "2022-07-15",
+		"end_date": "2022-07-17",
+		"location": {
+			"locality": "Columbus",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Columbus",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"series": "TrotCon",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "DenFur 2022",
+		"start_date": "2022-08-19",
+		"end_date": "2022-08-21",
+		"location": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"series": "DenFur",
+		"specifier": "2022",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Everfree Northwest 2022",
+		"start_date": "2022-08-26",
+		"end_date": "2022-08-28",
+		"location": {
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending",
+		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "Ponies Exposition 2022",
+		"start_date": "2022-10-07",
+		"end_date": "2022-10-09",
+		"location": {
+			"locality": "Phoenix",
+			"region": "Arizona",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Phoenix",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Ponies Exposition",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Ponyville Ciderfest 2022",
+		"start_date": "2022-11-04",
+		"end_date": "2022-11-06",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2022",
+		"genre": "Brony",
+		"status": "Attending",
+		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "Further Confusion 2023",
+		"start_date": "2023-01-12",
+		"end_date": "2023-01-16",
+		"location": {
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2023",
+		"genre": "Furry",
+		"status": "Attending"
+	},
+	{
+		"name": "HarmonyCon 2023",
+		"start_date": "2023-02-17",
+		"end_date": "2023-02-19",
+		"location": {
+			"locality": "Irving",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"series": "HarmonyCon",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "BABSCon 2023",
+		"start_date": "2023-04-07",
+		"end_date": "2023-04-09",
+		"location": {
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
+		"name": "Las Vegas Fur Con 2023",
+		"start_date": "2023-04-14",
+		"end_date": "2023-04-16",
+		"location": {
+			"locality": "Paradise",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Las Vegas",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"series": "Las Vegas Fur Con",
+		"specifier": "2023",
+		"genre": "Furry",
+		"status": "Tentative",
+		"note": "Likely attending Friday night to Sunday"
+	},
+	{
+		"name": "Whinny City Pony Con 2023",
+		"start_date": "2023-06-02",
+		"end_date": "2023-06-04",
+		"location": {
+			"locality": "Schaumburg",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Chicago",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"series": "Whinny City Pony Con",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Tentative",
+		"note": "Likely attending"
+	},
+	{
+		"name": "Anthrocon 2023",
+		"start_date": "2023-06-29",
+		"end_date": "2023-07-02",
+		"location": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Pittsburgh",
+			"region": "Pennsylvania",
+			"country": "USA"
+		},
+		"series": "Anthrocon",
+		"specifier": "2023",
+		"genre": "Furry",
+		"status": "Tentative",
+		"note": "Likely attending"
+	},
+	{
+		"name": "TrotCon 2023",
+		"start_date": "2023-07-07",
+		"end_date": "2023-07-09",
+		"location": {
+			"locality": "Dayton",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dayton",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"series": "TrotCon",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Tentative",
+		"note": "Possibly attending only Saturday and Sunday"
+	},
+	{
+		"name": "Everfree Northwest 2023",
+		"start_date": "2023-08-11",
+		"end_date": "2023-08-13",
+		"location": {
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Attending",
+		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "DenFur 2023",
+		"start_date": "2023-08-18",
+		"end_date": "2023-08-20",
+		"location": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"series": "DenFur",
+		"specifier": "2023",
+		"genre": "Furry",
+		"status": "Tentative",
+		"note": "Likely attending Friday night to Sunday"
+	},
+	{
+		"name": "Ponyville Ciderfest 2023",
+		"start_date": "2023-11-17",
+		"end_date": "2023-11-19",
+		"location": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2023",
+		"genre": "Brony",
+		"status": "Tentative",
+		"note": "Likely attending"
+	}
+]

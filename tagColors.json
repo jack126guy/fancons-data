@@ -1,0 +1,15 @@
+{
+	"genre": {
+		"Anime": "#ccccff",
+		"Brony": "#ffcccc",
+		"Furry": "#ffcc44"
+	},
+	"status": {
+		"Tentative": "#ffff44",
+		"Not Attending": "#ff8888"
+	},
+	"extra": {
+		"Partial": "#ffff88",
+		"Staff": "#8888ff"
+	}
+}
