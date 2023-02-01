@@ -4,6 +4,7 @@
 		"start_date": "2012-11-03",
 		"end_date": "2012-11-04",
 		"location": {
+			"venue": "Anaheim Convention Center",
 			"locality": "Anaheim",
 			"region": "California",
 			"country": "USA"
@@ -23,6 +24,7 @@
 		"start_date": "2013-05-10",
 		"end_date": "2013-05-12",
 		"location": {
+			"venue": "Anaheim Marriott",
 			"locality": "Anaheim",
 			"region": "California",
 			"country": "USA"
@@ -42,6 +44,7 @@
 		"start_date": "2015-09-04",
 		"end_date": "2015-09-06",
 		"location": {
+			"venue": "Hilton Anaheim",
 			"locality": "Anaheim",
 			"region": "California",
 			"country": "USA"
@@ -61,6 +64,7 @@
 		"start_date": "2017-01-06",
 		"end_date": "2017-01-08",
 		"location": {
+			"venue": "Wyndham San Diego Bayside",
 			"locality": "San Diego",
 			"region": "California",
 			"country": "USA"
@@ -80,6 +84,7 @@
 		"start_date": "2017-04-14",
 		"end_date": "2017-04-16",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -99,6 +104,7 @@
 		"start_date": "2017-11-17",
 		"end_date": "2017-11-19",
 		"location": {
+			"venue": "Wyndham Anaheim Garden Grove",
 			"locality": "Garden Grove",
 			"region": "California",
 			"country": "USA"
@@ -118,6 +124,7 @@
 		"start_date": "2018-03-30",
 		"end_date": "2018-04-01",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -137,6 +144,7 @@
 		"start_date": "2018-06-01",
 		"end_date": "2018-06-02",
 		"location": {
+			"venue": "Renaissance Las Vegas Hotel",
 			"locality": "Paradise",
 			"region": "Nevada",
 			"country": "USA"
@@ -156,6 +164,7 @@
 		"start_date": "2018-07-05",
 		"end_date": "2018-07-08",
 		"location": {
+			"venue": "Los Angeles Convention Center",
 			"locality": "Los Angeles",
 			"region": "California",
 			"country": "USA"
@@ -177,6 +186,7 @@
 		"start_date": "2018-10-26",
 		"end_date": "2018-10-28",
 		"location": {
+			"venue": "Hyatt Regency Milwaukee",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
@@ -196,6 +206,7 @@
 		"start_date": "2019-01-17",
 		"end_date": "2019-01-21",
 		"location": {
+			"venue": "San Jose McEnery Convention Center",
 			"locality": "San Jose",
 			"region": "California",
 			"country": "USA"
@@ -217,6 +228,7 @@
 		"start_date": "2019-04-19",
 		"end_date": "2019-04-22",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -236,6 +248,7 @@
 		"start_date": "2019-05-17",
 		"end_date": "2019-05-19",
 		"location": {
+			"venue": "DoubleTree Hotel Seattle Airport",
 			"locality": "SeaTac",
 			"region": "Washington",
 			"country": "USA"
@@ -257,6 +270,7 @@
 		"start_date": "2019-08-01",
 		"end_date": "2019-08-04",
 		"location": {
+			"venue": "Baltimore Convention Center",
 			"locality": "Baltimore",
 			"region": "Maryland",
 			"country": "USA"
@@ -276,6 +290,7 @@
 		"start_date": "2019-11-01",
 		"end_date": "2019-11-03",
 		"location": {
+			"venue": "Hyatt Regency Milwaukee",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
@@ -295,6 +310,7 @@
 		"start_date": "2020-01-16",
 		"end_date": "2020-01-20",
 		"location": {
+			"venue": "San Jose McEnery Convention Center",
 			"locality": "San Jose",
 			"region": "California",
 			"country": "USA"
@@ -316,6 +332,7 @@
 		"start_date": "2020-02-07",
 		"end_date": "2020-02-09",
 		"location": {
+			"venue": "Crowne Plaza Dallas Near Galleria-Addison",
 			"locality": "Addison",
 			"region": "Texas",
 			"country": "USA"
@@ -335,6 +352,7 @@
 		"start_date": "2020-04-03",
 		"end_date": "2020-04-05",
 		"location": {
+			"venue": "Hilton Los Angeles Airport",
 			"locality": "Los Angeles",
 			"region": "California",
 			"country": "USA"
@@ -355,6 +373,7 @@
 		"start_date": "2020-04-10",
 		"end_date": "2020-04-12",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -375,6 +394,7 @@
 		"start_date": "2020-07-02",
 		"end_date": "2020-07-05",
 		"location": {
+			"venue": "David L. Lawrence Convention Center",
 			"locality": "Pittsburgh",
 			"region": "Pennsylvania",
 			"country": "USA"
@@ -395,6 +415,7 @@
 		"start_date": "2020-07-03",
 		"end_date": "2020-07-05",
 		"location": {
+			"venue": "Hyatt Regency Schaumburg",
 			"locality": "Schaumburg",
 			"region": "Illinois",
 			"country": "USA"
@@ -415,6 +436,7 @@
 		"start_date": "2020-08-07",
 		"end_date": "2020-08-09",
 		"location": {
+			"venue": "Hyatt Regency Bellevue",
 			"locality": "Bellevue",
 			"region": "Washington",
 			"country": "USA"
@@ -435,6 +457,7 @@
 		"start_date": "2020-10-30",
 		"end_date": "2020-11-01",
 		"location": {
+			"venue": "Hilton Milwaukee City Center",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
@@ -455,6 +478,7 @@
 		"start_date": "2021-04-02",
 		"end_date": "2021-04-04",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -475,6 +499,7 @@
 		"start_date": "2021-04-09",
 		"end_date": "2021-04-11",
 		"location": {
+			"venue": "Hilton Los Angeles Airport",
 			"locality": "Los Angeles",
 			"region": "California",
 			"country": "USA"
@@ -495,6 +520,7 @@
 		"start_date": "2021-08-13",
 		"end_date": "2021-08-15",
 		"location": {
+			"venue": "Hyatt Regency Bellevue",
 			"locality": "Bellevue",
 			"region": "Washington",
 			"country": "USA"
@@ -514,6 +540,7 @@
 		"start_date": "2021-08-20",
 		"end_date": "2021-08-22",
 		"location": {
+			"venue": "Sheraton Denver Downtown Hotel",
 			"locality": "Denver",
 			"region": "Colorado",
 			"country": "USA"
@@ -535,6 +562,7 @@
 		"start_date": "2021-10-21",
 		"end_date": "2021-10-24",
 		"location": {
+			"venue": "Grand Sierra Resort",
 			"locality": "Reno",
 			"region": "Nevada",
 			"country": "USA"
@@ -556,6 +584,7 @@
 		"start_date": "2021-10-22",
 		"end_date": "2021-10-24",
 		"location": {
+			"venue": "Hilton Milwaukee City Center",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
@@ -575,6 +604,7 @@
 		"start_date": "2021-12-17",
 		"end_date": "2021-12-19",
 		"location": {
+			"venue": "Crowne Plaza Columbus North",
 			"locality": "Columbus",
 			"region": "Ohio",
 			"country": "USA"
@@ -594,6 +624,7 @@
 		"start_date": "2022-01-07",
 		"end_date": "2022-01-09",
 		"location": {
+			"venue": "Executive Hotel Vancouver Airport",
 			"locality": "Richmond",
 			"region": "British Columbia",
 			"country": "Canada"
@@ -614,6 +645,7 @@
 		"start_date": "2022-01-13",
 		"end_date": "2022-01-17",
 		"location": {
+			"venue": "San Jose McEnery Convention Center",
 			"locality": "San Jose",
 			"region": "California",
 			"country": "USA"
@@ -634,6 +666,7 @@
 		"start_date": "2022-02-18",
 		"end_date": "2022-02-20",
 		"location": {
+			"venue": "Sheraton DFW Airport Hotel",
 			"locality": "Irving",
 			"region": "Texas",
 			"country": "USA"
@@ -653,6 +686,7 @@
 		"start_date": "2022-04-08",
 		"end_date": "2022-04-10",
 		"location": {
+			"venue": "Hilton Los Angeles Airport",
 			"locality": "Los Angeles",
 			"region": "California",
 			"country": "USA"
@@ -672,6 +706,7 @@
 		"start_date": "2022-04-15",
 		"end_date": "2022-04-17",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -691,6 +726,7 @@
 		"start_date": "2022-06-03",
 		"end_date": "2022-06-05",
 		"location": {
+			"venue": "Hyatt Regency Schaumburg",
 			"locality": "Schaumburg",
 			"region": "Illinois",
 			"country": "USA"
@@ -710,6 +746,7 @@
 		"start_date": "2022-06-30",
 		"end_date": "2022-07-03",
 		"location": {
+			"venue": "David L. Lawrence Convention Center",
 			"locality": "Pittsburgh",
 			"region": "Pennsylvania",
 			"country": "USA"
@@ -730,6 +767,7 @@
 		"start_date": "2022-07-15",
 		"end_date": "2022-07-17",
 		"location": {
+			"venue": "Crowne Plaza Columbus North",
 			"locality": "Columbus",
 			"region": "Ohio",
 			"country": "USA"
@@ -749,6 +787,7 @@
 		"start_date": "2022-08-19",
 		"end_date": "2022-08-21",
 		"location": {
+			"venue": "Sheraton Denver Downtown Hotel",
 			"locality": "Denver",
 			"region": "Colorado",
 			"country": "USA"
@@ -770,6 +809,7 @@
 		"start_date": "2022-08-26",
 		"end_date": "2022-08-28",
 		"location": {
+			"venue": "Hyatt Regency Bellevue",
 			"locality": "Bellevue",
 			"region": "Washington",
 			"country": "USA"
@@ -790,6 +830,7 @@
 		"start_date": "2022-10-07",
 		"end_date": "2022-10-09",
 		"location": {
+			"venue": "Four Points by Sheraton Phoenix South Mountain",
 			"locality": "Phoenix",
 			"region": "Arizona",
 			"country": "USA"
@@ -811,6 +852,7 @@
 		"start_date": "2022-11-04",
 		"end_date": "2022-11-06",
 		"location": {
+			"venue": "Hilton Milwaukee City Center",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
@@ -831,6 +873,7 @@
 		"start_date": "2023-01-12",
 		"end_date": "2023-01-16",
 		"location": {
+			"venue": "San Jose McEnery Convention Center",
 			"locality": "San Jose",
 			"region": "California",
 			"country": "USA"
@@ -850,6 +893,7 @@
 		"start_date": "2023-02-17",
 		"end_date": "2023-02-19",
 		"location": {
+			"venue": "Sheraton DFW Airport Hotel",
 			"locality": "Irving",
 			"region": "Texas",
 			"country": "USA"
@@ -869,6 +913,7 @@
 		"start_date": "2023-04-07",
 		"end_date": "2023-04-09",
 		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
 			"locality": "Burlingame",
 			"region": "California",
 			"country": "USA"
@@ -888,6 +933,7 @@
 		"start_date": "2023-04-14",
 		"end_date": "2023-04-16",
 		"location": {
+			"venue": "Alexis Park Resort",
 			"locality": "Paradise",
 			"region": "Nevada",
 			"country": "USA"
@@ -908,6 +954,7 @@
 		"start_date": "2023-06-02",
 		"end_date": "2023-06-04",
 		"location": {
+			"venue": "Hyatt Regency Schaumburg",
 			"locality": "Schaumburg",
 			"region": "Illinois",
 			"country": "USA"
@@ -928,6 +975,7 @@
 		"start_date": "2023-06-29",
 		"end_date": "2023-07-02",
 		"location": {
+			"venue": "David L. Lawrence Convention Center",
 			"locality": "Pittsburgh",
 			"region": "Pennsylvania",
 			"country": "USA"
@@ -968,6 +1016,7 @@
 		"start_date": "2023-08-11",
 		"end_date": "2023-08-13",
 		"location": {
+			"venue": "Hyatt Regency Bellevue",
 			"locality": "Bellevue",
 			"region": "Washington",
 			"country": "USA"
@@ -988,6 +1037,7 @@
 		"start_date": "2023-08-18",
 		"end_date": "2023-08-20",
 		"location": {
+			"venue": "Sheraton Denver Downtown Hotel",
 			"locality": "Denver",
 			"region": "Colorado",
 			"country": "USA"
@@ -1008,6 +1058,7 @@
 		"start_date": "2023-11-17",
 		"end_date": "2023-11-19",
 		"location": {
+			"venue": "Hilton Milwaukee City Center",
 			"locality": "Milwaukee",
 			"region": "Wisconsin",
 			"country": "USA"
