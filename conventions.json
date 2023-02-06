@@ -946,8 +946,9 @@
 		"series": "Las Vegas Fur Con",
 		"specifier": "2023",
 		"genre": "Furry",
-		"status": "Tentative",
-		"note": "Likely attending Friday night to Sunday"
+		"status": "Attending",
+		"note": "Attending Friday night to Sunday",
+		"extra_tags": ["Partial"]
 	},
 	{
 		"name": "Whinny City Pony Con 2023",
@@ -988,8 +989,7 @@
 		"series": "Anthrocon",
 		"specifier": "2023",
 		"genre": "Furry",
-		"status": "Tentative",
-		"note": "Likely attending"
+		"status": "Attending"
 	},
 	{
 		"name": "TrotCon 2023",
@@ -1051,7 +1051,7 @@
 		"specifier": "2023",
 		"genre": "Furry",
 		"status": "Tentative",
-		"note": "Likely attending Friday night to Sunday"
+		"note": "Likely attending"
 	},
 	{
 		"name": "Ponyville Ciderfest 2023",
