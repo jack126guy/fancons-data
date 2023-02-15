@@ -19,7 +19,7 @@ This is represented as an array of objects, where each object has the following 
 	* **venue**: (String, optional) Name of venue
 	* **locality**: (String, optional) City, town, or similar settlement
 	* **region**: (String, optional) Subnational region, to distinguish between different localities with the same name in countries such as the United States
-	* **country**: (String, optional) Identifiable region of the world, often but not necessarily a sovereign state
+	* **country**: (String) Identifiable region of the world, often but not necessarily a sovereign state
 * **metropolis**: (Object, optional) Metropolitan city or other settlement, for grouping events by metropolitan area
 	* **locality**, **region**, **country**: Similar to the members of the **location** object, except representing the metropolis
 * **series**: (String) Name of the series of events that the event belongs to
