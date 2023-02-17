@@ -996,6 +996,7 @@
 		"start_date": "2023-07-07",
 		"end_date": "2023-07-09",
 		"location": {
+			"venue": "Dayton Convention Center",
 			"locality": "Dayton",
 			"region": "Ohio",
 			"country": "USA"
