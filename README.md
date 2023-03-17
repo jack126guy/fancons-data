@@ -1,4 +1,4 @@
-# Fan Convention Data
+# Jack "Fox" Grayson's Fan-Con Data
 
 This dataset lists the fan conventions I have attended (or will be attending), and primarily supports the [fan conventions page](https://www.jackgraysonfox.xyz/fancons/) on my website.
 
