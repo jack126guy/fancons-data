@@ -968,7 +968,8 @@
 		"series": "Whinny City Pony Con",
 		"specifier": "2023",
 		"genre": "Brony",
-		"status": "Attending"
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	},
 	{
 		"name": "Anthrocon 2023",
