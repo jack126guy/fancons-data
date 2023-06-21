@@ -1050,8 +1050,8 @@
 		"series": "DenFur",
 		"specifier": "2023",
 		"genre": "Furry",
-		"status": "Tentative",
-		"note": "Likely attending"
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	},
 	{
 		"name": "Ponyville Ciderfest 2023",
