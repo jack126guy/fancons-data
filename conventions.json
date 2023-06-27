@@ -1073,5 +1073,45 @@
 		"genre": "Brony",
 		"status": "Tentative",
 		"note": "Likely attending"
+	},
+	{
+		"name": "Further Confusion 2024",
+		"start_date": "2024-01-11",
+		"end_date": "2024-01-15",
+		"location": {
+			"venue": "San Jose McEnery Convention Center",
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2024",
+		"genre": "Furry",
+		"status": "Tentative"
+	},
+	{
+		"name": "HarmonyCon 2024",
+		"start_date": "2024-02-02",
+		"end_date": "2024-02-04",
+		"location": {
+			"venue": "Hyatt Regency Dallas",
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"series": "HarmonyCon",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Tentative"
 	}
 ]
