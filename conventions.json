@@ -1113,5 +1113,25 @@
 		"specifier": "2024",
 		"genre": "Brony",
 		"status": "Tentative"
+	},
+	{
+		"name": "BABSCon 2024",
+		"start_date": "2024-03-29",
+		"end_date": "2024-03-31",
+		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Tentative"
 	}
 ]
