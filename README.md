@@ -26,7 +26,7 @@ This is represented as an array of objects, where each object has the following 
 * **specifier**: (String) Specifier that identifies the event within the series, often a year
 * **genre**: (String) Genre, fandom, or community that the convention appeals to
 * **status**: (String) Attendance status, one of "Attending", "Tentative", or "Not Attending"
-* **notes**: (String, optional) Additional explanatory notes, especially when the attendane status is "Tentative" or "Not Attending"
+* **notes**: (String, optional) Additional explanatory notes, especially when the attendance status is "Tentative" or "Not Attending"
 * **extra_tags**: (Array, optional) Extra status tags, as an array of arbitrary strings
 
 ### Tag Colors
