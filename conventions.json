@@ -1094,6 +1094,27 @@
 		"status": "Tentative"
 	},
 	{
+		"name": "Vanhoover Pony Expo 2024",
+		"start_date": "2024-01-12",
+		"end_date": "2024-01-14",
+		"location": {
+			"venue": "Executive Hotel Vancouver Airport",
+			"locality": "Richmond",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"metropolis": {
+			"locality": "Vancouver",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"series": "Vanhoover Pony Expo",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Tentative",
+		"note": "Conflicts with Further Confusion"
+	},
+	{
 		"name": "HarmonyCon 2024",
 		"start_date": "2024-02-02",
 		"end_date": "2024-02-04",
