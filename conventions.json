@@ -1091,7 +1091,7 @@
 		"series": "HarmonyCon",
 		"specifier": "2024",
 		"genre": "Brony",
-		"status": "Tentative"
+		"status": "Attending"
 	},
 	{
 		"name": "BABSCon 2024",
@@ -1111,6 +1111,6 @@
 		"series": "BABSCon",
 		"specifier": "2024",
 		"genre": "Brony",
-		"status": "Tentative"
+		"status": "Attending"
 	}
 ]
