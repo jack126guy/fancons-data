@@ -1134,5 +1134,26 @@
 		"specifier": "2024",
 		"genre": "Brony",
 		"status": "Attending"
+	},
+	{
+		"name": "Everfree Northwest 2024",
+		"start_date": "2024-08-23",
+		"end_date": "2024-08-25",
+		"location": {
+			"venue": "Hyatt Regency Bellevue",
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Tentative",
+		"extra_tags": ["Staff"]
 	}
 ]
