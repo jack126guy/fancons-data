@@ -1136,6 +1136,26 @@
 		"status": "Attending"
 	},
 	{
+		"name": "TrotCon 2024",
+		"start_date": "2024-07-12",
+		"end_date": "2024-07-14",
+		"location": {
+			"venue": "Dayton Convention Center",
+			"locality": "Dayton",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dayton",
+			"region": "Ohio",
+			"country": "USA"
+		},
+		"series": "TrotCon",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Tentative"
+	},
+	{
 		"name": "Everfree Northwest 2024",
 		"start_date": "2024-08-23",
 		"end_date": "2024-08-25",
