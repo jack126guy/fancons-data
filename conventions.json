@@ -1175,5 +1175,27 @@
 		"genre": "Brony",
 		"status": "Attending",
 		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "Another Furry Con 2024",
+		"start_date": "2024-09-27",
+		"end_date": "2024-09-29",
+		"location": {
+			"venue": "Ontario Convention Center",
+			"locality": "Ontario",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Another Furry Con",
+		"specifier": "2024",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only on Saturday",
+		"extra_tags": ["Partial"]
 	}
 ]
