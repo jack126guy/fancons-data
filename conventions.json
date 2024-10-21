@@ -1197,5 +1197,25 @@
 		"status": "Attending",
 		"note": "Attending only on Saturday",
 		"extra_tags": ["Partial"]
+	},
+	{
+		"name": "Ponyville Ciderfest 2024",
+		"start_date": "2024-11-01",
+		"end_date": "2024-11-03",
+		"location": {
+			"venue": "Hyatt Regency Milwaukee",
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2024",
+		"genre": "Brony",
+		"status": "Attending"
 	}
 ]
