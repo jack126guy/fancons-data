@@ -1217,5 +1217,25 @@
 		"specifier": "2024",
 		"genre": "Brony",
 		"status": "Attending"
+	},
+	{
+		"name": "HarmonyCon 2025",
+		"start_date": "2025-01-31",
+		"end_date": "2025-02-02",
+		"location": {
+			"venue": "Hyatt Regency Dallas",
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Dallas",
+			"region": "Texas",
+			"country": "USA"
+		},
+		"series": "HarmonyCon",
+		"specifier": "2025",
+		"genre": "Brony",
+		"status": "Tentative"
 	}
 ]
