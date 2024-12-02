@@ -1259,5 +1259,45 @@
 		"specifier": "2025",
 		"genre": "Brony",
 		"status": "Attending"
+	},
+	{
+		"name": "Golden State Fur Con 2025",
+		"start_date": "2025-03-28",
+		"end_date": "2025-03-30",
+		"location": {
+			"venue": "Hilton Los Angeles Airport",
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Golden State Fur Con",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Tentative"
+	},
+	{
+		"name": "BABSCon 2025",
+		"start_date": "2025-04-18",
+		"end_date": "2025-04-20",
+		"location": {
+			"venue": "Hyatt Regency San Francisco Airport",
+			"locality": "Burlingame",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "BABSCon",
+		"specifier": "2025",
+		"genre": "Brony",
+		"status": "Attending"
 	}
 ]
