@@ -1241,6 +1241,26 @@
 		"extra_tags": ["Partial"]
 	},
 	{
+		"name": "Vanhoover Pony Expo 2025",
+		"start_date": "2025-01-17",
+		"end_date": "2025-01-19",
+		"location": {
+			"venue": "Executive Hotel Vancouver Airport",
+			"locality": "Richmond",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"metropolis": {
+			"locality": "Vancouver",
+			"region": "British Columbia",
+			"country": "Canada"
+		},
+		"series": "Vanhoover Pony Expo",
+		"specifier": "2025",
+		"genre": "Brony",
+		"status": "Tentative"
+	},
+	{
 		"name": "HarmonyCon 2025",
 		"start_date": "2025-01-31",
 		"end_date": "2025-02-02",
@@ -1299,5 +1319,27 @@
 		"specifier": "2025",
 		"genre": "Brony",
 		"status": "Attending"
+	},
+	{
+		"name": "Everfree Northwest 2025",
+		"start_date": "2025-08-22",
+		"end_date": "2025-08-22",
+		"location": {
+			"venue": "Hyatt Regency Bellevue",
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2025",
+		"genre": "Brony",
+		"status": "Tentative",
+		"note": "Likely attending",
+		"extra_tags": ["Staff"]
 	}
 ]
