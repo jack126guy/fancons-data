@@ -1258,7 +1258,9 @@
 		"series": "Vanhoover Pony Expo",
 		"specifier": "2025",
 		"genre": "Brony",
-		"status": "Tentative"
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
 	},
 	{
 		"name": "HarmonyCon 2025",
