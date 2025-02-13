@@ -1323,6 +1323,26 @@
 		"status": "Attending"
 	},
 	{
+		"name": "Furry Weekend Atlanta 2025",
+		"start_date": "2025-05-08",
+		"end_date": "2025-05-11",
+		"location": {
+			"venue": "Atlanta Marriott Marquis",
+			"locality": "Atlanta",
+			"region": "Georgia",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Atlanta",
+			"region": "Georgia",
+			"country": "USA"
+		},
+		"series": "Furry Weekend Atlanta",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Tentative"
+	},
+	{
 		"name": "Everfree Northwest 2025",
 		"start_date": "2025-08-22",
 		"end_date": "2025-08-24",
