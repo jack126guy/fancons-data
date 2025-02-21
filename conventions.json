@@ -1340,7 +1340,9 @@
 		"series": "Furry Weekend Atlanta",
 		"specifier": "2025",
 		"genre": "Furry",
-		"status": "Tentative"
+		"status": "Attending",
+		"note": "Attending only on Saturday and Sunday",
+		"extra_tags": ["Partial"]
 	},
 	{
 		"name": "Everfree Northwest 2025",
