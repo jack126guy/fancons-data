@@ -1364,5 +1364,25 @@
 		"genre": "Brony",
 		"status": "Attending",
 		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "DenFur 2025",
+		"start_date": "2025-08-29",
+		"end_date": "2025-08-31",
+		"location": {
+			"venue": "Sheraton Denver Downtown",
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"series": "DenFur",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Tentative"
 	}
 ]
