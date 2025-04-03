@@ -1384,5 +1384,25 @@
 		"specifier": "2025",
 		"genre": "Furry",
 		"status": "Attending"
+	},
+	{
+		"name": "Another Furry Con 2025",
+		"start_date": "2025-09-19",
+		"end_date": "2025-09-21",
+		"location": {
+			"venue": "Ontario Convention Center",
+			"locality": "Ontario",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Another Furry Con",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Tentative"
 	}
 ]
