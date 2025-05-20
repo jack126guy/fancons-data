@@ -1383,7 +1383,8 @@
 		"series": "DenFur",
 		"specifier": "2025",
 		"genre": "Furry",
-		"status": "Attending"
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	},
 	{
 		"name": "Another Furry Con 2025",
