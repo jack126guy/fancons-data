@@ -1405,5 +1405,25 @@
 		"specifier": "2025",
 		"genre": "Furry",
 		"status": "Tentative"
+	},
+	{
+		"name": "Ponyville Ciderfest 2025",
+		"start_date": "2025-11-21",
+		"end_date": "2025-11-23",
+		"location": {
+			"venue": "Hyatt Regency Milwaukee",
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2025",
+		"genre": "Brony",
+		"status": "Tentative"
 	}
 ]
