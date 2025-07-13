@@ -1365,26 +1365,6 @@
 		"status": "Attending"
 	},
 	{
-		"name": "TrotCon 2025",
-		"start_date": "2025-07-25",
-		"end_date": "2025-07-27",
-		"location": {
-			"venue": "Wyndham Columbus",
-			"locality": "Columbus",
-			"region": "Ohio",
-			"country": "USA"
-		},
-		"metropolis": {
-			"locality": "Columbus",
-			"region": "Ohio",
-			"country": "USA"
-		},
-		"series": "TrotCon",
-		"specifier": "2025",
-		"genre": "Brony",
-		"status": "Tentative"
-	},
-	{
 		"name": "Everfree Northwest 2025",
 		"start_date": "2025-08-22",
 		"end_date": "2025-08-24",
