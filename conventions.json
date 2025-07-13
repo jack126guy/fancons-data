@@ -1444,7 +1444,8 @@
 		"series": "Another Furry Con",
 		"specifier": "2025",
 		"genre": "Furry",
-		"status": "Tentative"
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	},
 	{
 		"name": "Ponyville Ciderfest 2025",
