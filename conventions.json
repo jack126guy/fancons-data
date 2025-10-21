@@ -1445,7 +1445,8 @@
 		"series": "Ponyville Ciderfest",
 		"specifier": "2025",
 		"genre": "Brony",
-		"status": "Tentative"
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	},
 	{
 		"name": "HarmonyCon 2026",
