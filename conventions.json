@@ -1449,6 +1449,28 @@
 		"extra_tags": ["Staff"]
 	},
 	{
+		"name": "Midwest FurFest 2025",
+		"start_date": "2025-12-04",
+		"end_date": "2025-12-07",
+		"location": {
+			"venue": "Donald E. Stephens Convention Center",
+			"locality": "Rosemont",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Chicago",
+			"region": "Illinois",
+			"country": "USA"
+		},
+		"series": "Midwest FurFest",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Attending",
+		"note": "Attending only Friday and Saturday",
+		"extra_tags": ["Partial"]
+	},
+	{
 		"name": "HarmonyCon 2026",
 		"start_date": "2026-02-13",
 		"end_date": "2026-02-15",
