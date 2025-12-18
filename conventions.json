@@ -1471,6 +1471,26 @@
 		"extra_tags": ["Partial"]
 	},
 	{
+		"name": "Further Confusion 2026",
+		"start_date": "2026-01-15",
+		"end_date": "2026-01-19",
+		"location": {
+			"venue": "San Jose McEnery Convention Center",
+			"locality": "San Jose",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "San Francisco",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Further Confusion",
+		"specifier": "2026",
+		"genre": "Furry",
+		"status": "Attending"
+	},
+	{
 		"name": "HarmonyCon 2026",
 		"start_date": "2026-02-13",
 		"end_date": "2026-02-15",
@@ -1489,5 +1509,45 @@
 		"specifier": "2026",
 		"genre": "Brony",
 		"status": "Attending"
+	},
+	{
+		"name": "Golden State Fur Con 2026",
+		"start_date": "2026-03-13",
+		"end_date": "2026-03-15",
+		"location": {
+			"venue": "Hilton Los Angeles Airport",
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Golden State Fur Con",
+		"specifier": "2026",
+		"genre": "Furry",
+		"status": "Attending"
+	},
+	{
+		"name": "Las Vegas Fur Con 2026",
+		"start_date": "2026-04-02",
+		"end_date": "2026-04-05",
+		"location": {
+			"venue": "Alexis Park Resort",
+			"locality": "Paradise",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Las Vegas",
+			"region": "Nevada",
+			"country": "USA"
+		},
+		"series": "Las Vegas Fur Con",
+		"specifier": "2026",
+		"genre": "Furry",
+		"status": "Tentative"
 	}
 ]
