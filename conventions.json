@@ -1549,5 +1549,46 @@
 		"specifier": "2026",
 		"genre": "Furry",
 		"status": "Tentative"
+	},
+	{
+		"name": "Everfree Northwest 2026",
+		"start_date": "2026-08-21",
+		"end_date": "2026-08-23",
+		"location": {
+			"venue": "Hyatt Regency Bellevue",
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2026",
+		"genre": "Brony",
+		"status": "Attending",
+		"extra_tags": ["Staff"]
+	},
+	{
+		"name": "DenFur 2026",
+		"start_date": "2026-08-28",
+		"end_date": "2026-08-30",
+		"location": {
+			"venue": "Sheraton Denver Downtown",
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Denver",
+			"region": "Colorado",
+			"country": "USA"
+		},
+		"series": "DenFur",
+		"specifier": "2025",
+		"genre": "Furry",
+		"status": "Tentative"
 	}
 ]
