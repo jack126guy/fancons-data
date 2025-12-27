@@ -1471,6 +1471,28 @@
 		"extra_tags": ["Partial"]
 	},
 	{
+		"name": "Anime Los Angeles 21",
+		"start_date": "2026-01-08",
+		"end_date": "2026-01-11",
+		"location": {
+			"venue": "Long Beach Convention Center",
+			"locality": "Long Beach",
+			"region": "California",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Los Angeles",
+			"region": "California",
+			"country": "USA"
+		},
+		"series": "Anime Los Angeles",
+		"specifier": "21",
+		"genre": "Anime",
+		"status": "Attending",
+		"note": "Attending only on Saturday",
+		"extra_tags": ["Partial"]
+	},
+	{
 		"name": "Further Confusion 2026",
 		"start_date": "2026-01-15",
 		"end_date": "2026-01-19",
