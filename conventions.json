@@ -176,7 +176,7 @@
 		},
 		"series": "Anime Expo",
 		"specifier": "2018",
-		"genre": "Anime",
+		"genre": "Anime (+ Related)",
 		"status": "Attending",
 		"note": "Attending only on Saturday",
 		"extra_tags": ["Partial"]
@@ -1691,7 +1691,7 @@
 		},
 		"series": "Anime Los Angeles",
 		"specifier": "22",
-		"genre": "Anime",
+		"genre": "Anime (+ Related)",
 		"status": "Tentative"
 	}
 ]
