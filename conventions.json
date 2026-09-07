@@ -1676,6 +1676,26 @@
 		"extra_tags": ["Staff"]
 	},
 	{
+		"name": "Ponyville Ciderfest 2026",
+		"start_date": "2026-11-20",
+		"end_date": "2026-11-22",
+		"location": {
+			"venue": "Hyatt Regency Milwaukee",
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Milwaukee",
+			"region": "Wisconsin",
+			"country": "USA"
+		},
+		"series": "Ponyville Ciderfest",
+		"specifier": "2026",
+		"genre": "Brony",
+		"status": "Attending"
+	},
+	{
 		"name": "Anime Los Angeles 22",
 		"start_date": "2027-01-07",
 		"end_date": "2027-01-10",
