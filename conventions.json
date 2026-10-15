@@ -1714,5 +1714,26 @@
 		"specifier": "22",
 		"genre": "Anime + Related",
 		"status": "Tentative"
+	},
+	{
+		"name": "Everfree Northwest 2027",
+		"start_date": "2027-07-09",
+		"end_date": "2027-07-11",
+		"location": {
+			"venue": "Hyatt Regency Bellevue",
+			"locality": "Bellevue",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"metropolis": {
+			"locality": "Seattle",
+			"region": "Washington",
+			"country": "USA"
+		},
+		"series": "Everfree Northwest",
+		"specifier": "2027",
+		"genre": "Brony",
+		"status": "Attending",
+		"extra_tags": ["Staff"]
 	}
 ]
